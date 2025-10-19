@@ -1,4 +1,4 @@
--- script that inserts a multiple rows in the table customer (database alx_book_store) in your MySQL server
+-- script that inserts multiple rows in the table customer (database alx_book_store) in your MySQL server
 
 USE DATABASE alx_book_store;
 
